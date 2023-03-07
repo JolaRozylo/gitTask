@@ -1,1 +1,2 @@
-console.log("“Git is Awesome!");
+let input = prompt("Say something");
+alert(input);
